@@ -2355,9 +2355,3 @@ map ctrl+w       close_tab
 #: }}}
 
 #: }}}
-
-
-# BEGIN_KITTY_THEME
-# Aquarium Dark
-include current-theme.conf
-# END_KITTY_THEME
